@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Morais-Anderson/3j_pam2_2021/issues"
   },
-  "homepage": "https://github.com/Morais-Anderson/3j_pam2_2021#readme"
+  "homepage": "https://github.com/Morais-Anderson/3j_pam2_2021#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
+  }
 }
