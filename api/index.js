@@ -5,7 +5,9 @@ servidor.get(
     '/', (req, res, next) =>{
         return res.send(
             {
-                "mensagem": "Bem-vindo(a) ao servidor"
+                "mensagem": "Bem-vindo(a) ao servidor",
+                "cidade": "Itapeva",
+                "uf":"SP"
             }
         )
     }
