@@ -9,6 +9,7 @@
   "author": "Anderson Machado De Morais",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
   }
 }
